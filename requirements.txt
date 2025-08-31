@@ -1,20 +1,16 @@
-# Telegram frameworks (retain only those you actively use)
 pyrogram>=2.0.106
 tgcrypto>=1.2.5
 
-# Database & models
 pymongo[srv]>=4.14.1
 motor>=3.3.2
 umongo>=3.3.1
 marshmallow>=3.20.1
 
-# Web frameworks & HTTP
 flask>=3.1.2
 aiohttp>=3.12.15
 python-dotenv>=1.1.1
 requests>=2.32.4
 
-# Utilities
 beautifulsoup4>=4.12.2
 cinemagoer>=2023.5.1
 tmdbv3api>=1.9.0
